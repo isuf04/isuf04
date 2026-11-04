@@ -1,8 +1,7 @@
 <h1 align="center">Hey there, I'm Isuf Ali 👋</h1>
 
 <p align="center">
-  <b>Python Backend Developer · AI/LLM Agent Builder · Django & DRF Enthusiast</b><br/>
-  <i>Building scalable backends and intelligent financial tools</i>
+  <b>Python Backend Developer · Django & DRF Enthusiast</b><br/>
 </p>
 
 <p align="center">
@@ -32,9 +31,9 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%2FLLM%20Agents-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/AI%2FLLM%20Agents-412991?style=for-the-badge&logo=openai&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/HTML%2FCSS%2FJS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
