@@ -1,3 +1,4 @@
+﻿---
 <h1 align="center">Hey there, I'm Isuf Ali 👋</h1>
 
 <p align="center">
@@ -11,6 +12,9 @@
   <a href="https://github.com/isuf04">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://isuf04.github.io/portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-0A48AD?style=for-the-badge&logo=githubpages&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -22,6 +26,7 @@
 - 🧠 Passionate about **AI Agent Development**, **Django REST APIs**, and **financial modeling**
 - 📍 Bhopal, Madhya Pradesh, India
 - 📬 Reach me at **aliyusuf09349@gmail.com**
+- 🌐 Portfolio: [isuf04.github.io/portfolio](https://isuf04.github.io/portfolio)
 
 ---
 
